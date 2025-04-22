@@ -2,6 +2,8 @@
 
 The open FinLLM leaderboard are available on [SecBen](https://huggingface.co/spaces/lthc/secben).
 
+![leaderboard](figs/image.png)
+
 SecBen is a comprehensive cybersecurity benchmark featuring 12 datasets and 18k samples, with pre-defined labels and extensible metrics. 
 
 Sourced from high-quality open-source corpora and expert-annotated prompts, it evaluates LLMs across three skill levels based on Bloom's cognitive model: CyberKUT, CyberNLP, and CyberDSA.

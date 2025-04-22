@@ -20,7 +20,7 @@ PROJECT_ROOT = os.getenv("PROJECT_ROOT")
 dbg(PROJECT_ROOT)
 # DATASET_PATH = os.path.join(PROJECT_ROOT, "data")
 
-DATASET_PATH = "/mnt/d/Project0Scicence/__Paper__/信息安全大模型/DATA_all"
+DATASET_PATH = "<DATA_PATH>"
 
 
 SRC_PATH = os.path.join(PROJECT_ROOT, "src")
